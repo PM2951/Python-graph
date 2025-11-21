@@ -4,7 +4,7 @@
 出典となる解説記事：
 
 * 「Python入門とデータ処理の基礎 第3回 – Matplotlib/Seabornによるデータ可視化」をベースにした練習問題集です。  
-  （https://www.salesanalytics.co.jp/datascience/datascience273/）
+  （https://www.salesanalytics.co.jp/datascience/datascience273）
 
 すべて VS code (Jupyter Notebook) もしくは Google Colab を想定しています。
 
