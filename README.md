@@ -18,7 +18,7 @@ import japanize_matplotlib  # 日本語表示用（インストール済みを�
 import numpy as np
 ```
 
-※ `japanize_matplotlib` が入っていない場合は、ターミナルやノートブックで `pip install japanize-matplotlib matplotlib numpy` を実行してからインポートしてください。
+※ `japanize_matplotlib` が入っていない場合は、ターミナルやノートブックで   `pip install japanize-matplotlib matplotlib numpy` を実行してからインポートしてください。
 
 ※ 各大問の冒頭に使用するデータを記載しています。データをコピペして設問に解答してくだいさい。
 
